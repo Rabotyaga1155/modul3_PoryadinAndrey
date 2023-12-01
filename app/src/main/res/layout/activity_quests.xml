@@ -22,7 +22,7 @@
         android:fontFamily="sans-serif-medium"
         android:layout_marginTop="20dp"
         android:layout_marginStart="50dp"
-        android:text="My quests"
+        android:text="@string/my_quests"
         android:textColor="@color/aquamarine"
         android:textSize="50sp"
         app:layout_constraintLeft_toLeftOf="parent"

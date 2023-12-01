@@ -48,7 +48,7 @@
     <TextView
         android:layout_width="match_parent"
         android:id="@+id/bt_details"
-        android:text="Details"
+        android:text="@string/details"
         android:textSize="28sp"
         android:textColor="@color/aquamarine"
         android:layout_marginStart="20dp"

@@ -14,8 +14,6 @@
     <ImageView
         android:layout_width="791dp"
         android:layout_height="238dp"
-
-
         android:src="@drawable/newlogo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

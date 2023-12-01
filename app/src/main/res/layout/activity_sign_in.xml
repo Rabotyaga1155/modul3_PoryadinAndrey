@@ -36,7 +36,7 @@
             android:backgroundTint="@drawable/edit"
             android:layout_marginTop="10dp"
             android:textCursorDrawable="@drawable/cursor"
-            android:hint="Email"
+            android:hint="@string/email"
             android:inputType="textEmailAddress"
             android:textColor="@color/aquamarine"
             android:textColorHint="@color/lb_tv_white"
@@ -49,7 +49,7 @@
             android:backgroundTint="@drawable/edit"
             android:layout_marginTop="10dp"
             android:textCursorDrawable="@drawable/cursor"
-            android:hint="Password"
+            android:hint="@string/Password"
             android:inputType="textPassword"
             android:textColor="@color/aquamarine"
             android:textColorHint="@color/lb_tv_white"
@@ -66,7 +66,7 @@
             android:layout_marginTop="30dp"
             android:textAllCaps="false"
             android:textSize="18sp"
-            android:text="Sign in">
+            android:text="@string/sign">
 
         </Button>
 
